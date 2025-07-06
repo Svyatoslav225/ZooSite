@@ -10,6 +10,7 @@ header{
     color: white;
     top:0;
     padding: 15px 5%;
+    margin:-7px;
 }
 .nav {
     display: flex;
