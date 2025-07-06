@@ -2,6 +2,10 @@ body {
     font-family: sans-serif;
     background-color: #D6FFC7;
 }
+.MainText{
+    font-size: 1.8rem;
+    font-weight: bold;
+}
 header{
     background-color: #4AA329;
     display: flex;
