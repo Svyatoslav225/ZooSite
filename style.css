@@ -57,6 +57,8 @@ img{
     margin-left: 25px;
     position:relative;
     padding-left: 132px;
+    width:360px;
+    height:240px;
 }
 .orange{
     color:#FF6200;
